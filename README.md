@@ -32,6 +32,7 @@ git clone https://github.com/your-username/Hactocrazy.git
 * Make change in the repository with the new branch.
 * Make a pull request.
 * Star the repository.
+* Last but not least, have a blast.
 
 ### NOTE
 
